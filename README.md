@@ -9,3 +9,7 @@ Along with this simple feature the algorithm also checks to see if the password 
 Due to githubs file size limitations the rockyou text file cannot be uploaded to the repository for this project but can be easily sourced from this website: https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt
 
 Once sourced ensure the file is whithin the same working directory as the python program and you should be good to go. 
+
+UPDATE:
+
+program now contains the functionality to generate random passwords based on the users choice of parameters
