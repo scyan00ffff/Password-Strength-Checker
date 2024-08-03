@@ -15,10 +15,13 @@ Once sourced ensure the file is whithin the same working directory as the python
 Screenshots:
 
 Home Page:
+
 ![passwordhome](https://github.com/user-attachments/assets/89a5de11-713e-4284-bafc-88949e6e5e80)
 
 Password Generator:
+
 ![Screenshot 2024-08-03 012645](https://github.com/user-attachments/assets/eb94038f-6cbe-4188-9aef-3235f162ad43)
 
 Password Strength Tester:
+
 ![passwordtester](https://github.com/user-attachments/assets/7d2fef31-9a27-47f5-9643-7cac1f500a54)
